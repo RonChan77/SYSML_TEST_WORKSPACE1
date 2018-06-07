@@ -1,4 +1,4 @@
-Test 1. Initial commit.
+Test 1. Initial commit
 
 Test 2. Update text.
 
