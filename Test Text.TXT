@@ -3,3 +3,5 @@ Test 1. Initial commit.
 Test 2. Update text.
 
 Test 4. But DO commit this change.
+
+Test 5. Get ready to merge!
